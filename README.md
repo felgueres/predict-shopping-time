@@ -1,9 +1,6 @@
-#### Instacart - Predicting Shopping Time
+#### Predicting Shopping Time
 #### Author: Pablo Felgueres
 #### Date: July 28th, 2017
-
-#### Link to written post on this project:
-http://pablofelgueres.com/2017/07/19/Instacart.html
 
 #### Description:
 
