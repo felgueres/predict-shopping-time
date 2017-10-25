@@ -1,10 +1,10 @@
-#### Predicting Shopping Time
+#### Modeling Shopping Time
 #### Author: Pablo Felgueres
 #### Date: July 28th, 2017
 
 #### Description:
 
-Data Science Challenge to predict shopping time duration with an online groceries platform, includes:
+Modeling shopping time duration for inferece, includes:
 
 1) understand the data via exploration (EDA),
 2) design a workflow to transform raw data into the feature space of the model,
