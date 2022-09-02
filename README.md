@@ -1,5 +1,4 @@
 #### Modeling Shopping Time
-#### Author: Pablo Felgueres
 #### Date: July 28th, 2017
 
 #### Description:
